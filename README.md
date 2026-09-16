@@ -1,6 +1,6 @@
 <div align="center">
-
-<img align="right" src="./img.png" width="260" alt="Kunal Meher - profile photo">
+  
+<img align="right" src="./profile.png" width="260" alt="Kunal Meher - profile photo">
 
 # Hey there, I'm Kunal Meher 👋
 
