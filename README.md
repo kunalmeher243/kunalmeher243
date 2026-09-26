@@ -57,7 +57,7 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,tailwind,react,vite,nodejs,express,mongodb,mysql,aws,docker,kubernetes,jenkins,githubactions,git,github,gitlab,postman&perline=5&theme=dark" width="100%" alt="Kunal Meher tech stack">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,html,css,tailwind,react,vite,nodejs,express,mongodb,mysql,aws,docker,kubernetes,jenkins,githubactions,git,github,gitlab,postman&perline=5&theme=dark" width="100%" alt="Kunal Meher tech stack">
 
 </td>
 </tr>
