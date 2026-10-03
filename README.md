@@ -28,7 +28,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=kunalmeher243&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=kunalmeher243&style=for-the-badge&label=PROFILE%20VIEW" alt="Profile views">
 
 </div>
 
